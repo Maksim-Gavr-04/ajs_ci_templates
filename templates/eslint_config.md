@@ -61,7 +61,7 @@ export default [
       ], // пробелы внутри массива - авто
       'array-bracket-newline': [
         'error', {
-          'multiline': true, 'minItems': 2
+          'multiline': true, 'minItems': 3
         }
       ], // перенос элементов массива на новые строки, если многоэлементный - авто
       'object-curly-spacing': [
